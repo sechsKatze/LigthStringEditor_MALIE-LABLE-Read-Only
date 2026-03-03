@@ -1,0 +1,18 @@
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\bin\Release\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\bin\Release\LigthStringEditor.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\obj\Release\LigthStringEditor.csproj.AssemblyReference.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\obj\Release\LigthStringEditor.csproj.CoreCompileInputs.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\obj\Release\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor_v2.0_ReadOnly (2)\LigthStringEditor\obj\Release\LigthStringEditor.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\bin\Release\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\bin\Release\LigthStringEditor.pdb
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\obj\Release\LigthStringEditor.csproj.AssemblyReference.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\obj\Release\LigthStringEditor.csproj.CoreCompileInputs.cache
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\obj\Release\LigthStringEditor.dll
+H:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only\LigthStringEditor\obj\Release\LigthStringEditor.pdb
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\bin\Release\LigthStringEditor.dll
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\bin\Release\LigthStringEditor.pdb
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\obj\Release\LigthStringEditor.csproj.AssemblyReference.cache
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\obj\Release\LigthStringEditor.csproj.CoreCompileInputs.cache
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\obj\Release\LigthStringEditor.dll
+J:\omarta kor patch data\reversing data\LigthStringEditor-1.0.7\LightStringEditor - MALIE LABEL Read Only_버그 수정본\LigthStringEditor\obj\Release\LigthStringEditor.pdb
